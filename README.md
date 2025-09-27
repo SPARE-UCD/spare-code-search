@@ -4,7 +4,7 @@
     <img src="docs/figs/logo.png" alt="logo" width="200" />
 </p>
 
-Official implementation of the "SpareCodeSearch: How to *search* for *code* context when you do not have a *spare* GPU" - submitted at the [ASE 2025 Context Collection Workshop](https://jetbrains-research.github.io/ase2025-context-collection-workshop/).
+Official implementation of the "SpareCodeSearch: How to *search* for *code* context when you do not have a *spare* GPU" - accepted at the [ASE 2025 Context Collection Workshop](https://jetbrains-research.github.io/ase2025-context-collection-workshop/).
 
 This solution also won the golden price in [Kotlin track](https://lp.jetbrains.com/research/context-collection-competition/?tab-1756138596455-4232=kotlin) 🥇 and the silver price in [Python track](https://lp.jetbrains.com/research/context-collection-competition/?tab-1756138596455-4232=python) 🥈 of the corresponding Context Collection Competition organized by Jetbrains and Mistral AI.
 
