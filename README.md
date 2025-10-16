@@ -3,10 +3,14 @@
 <p align="center">
     <img src="docs/figs/logo.png" alt="logo" width="200" />
 </p>
-[![arXiv](https://img.shields.io/badge/arXiv-2510.12948-b31b1b.svg)](https://arxiv.org/abs/2510.12948)
+
 Official implementation of the "SpareCodeSearch: How to *search* for *code* context when you do not have a *spare* GPU" - accepted at the [ASE 2025 Context Collection Workshop](https://jetbrains-research.github.io/ase2025-context-collection-workshop/).
 
 This solution also won the golden prize in [Kotlin track](https://lp.jetbrains.com/research/context-collection-competition/?tab-1756138596455-4232=kotlin) 🥇 and the silver prize in [Python track](https://lp.jetbrains.com/research/context-collection-competition/?tab-1756138596455-4232=python) 🥈 of the corresponding Context Collection Competition organized by Jetbrains and Mistral AI.
+
+[![arXiv](https://img.shields.io/badge/arXiv-2510.12948-b31b1b.svg)](https://arxiv.org/abs/2510.12948)
+[![Leaderboard](https://img.shields.io/badge/Leaderboard-orange)](https://eval.ai/web/challenges/challenge-page/2516/leaderboard/6299)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Quickstart
 SpareCodeSearch ultilizes [Zoekt](https://github.com/sourcegraph/zoekt) for key-word based search. No GPU is required for this process. Make sure you have [Docker engine](https://docs.docker.com/engine/) and [Docker Compose](https://docs.docker.com/compose/install/) installed to run the submodules and microservices included in this project.
