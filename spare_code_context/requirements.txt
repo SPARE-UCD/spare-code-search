@@ -1,6 +1,6 @@
 tree_sitter_languages==1.10.2
 tree_sitter==0.20.4
-transformers==4.52.4
+transformers==4.53.0
 diff_match_patch==20241021
 pydantic==2.11.3
 jsonlines==4.0.0
