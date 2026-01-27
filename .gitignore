@@ -4,3 +4,7 @@ data/repositories*
 build/volumes
 data/*.zip
 queries/*
+notebooks/*
+predictions/*
+data/*
+spare_code_search/target
